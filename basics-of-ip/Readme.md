@@ -1,9 +1,4 @@
-# Computer Networks – Clean 3‑Day Notes
-
-This document compiles **all computer networks concepts discussed over the last 3 days**, arranged **from first principles → real-world usage**.
-
-No repetition. Logical order. Meant to be read end-to-end.
-
+# Computer Networks 
 ---
 
 ## 1. What an IP Address Really Is
@@ -365,15 +360,6 @@ IP alone is not enough.
 A **service + port** is required.
 
 ---
-
-## 18. Key Mental Model (Final)
-
-* Subnet mask decides **local vs remote**
-* ARP handles **local delivery**
-* Gateway handles **external delivery**
-* NAT enables internet sharing
-* DNS only resolves names
-
 
 
 ---
